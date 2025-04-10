@@ -1,4 +1,6 @@
 import { useState } from 'react'
+import { Header } from './components'
+import ButtonGradient from './assets/svg/ButtonGradient'
 
 
 function App() {
@@ -6,7 +8,11 @@ function App() {
 
   return (
     <>
-      <div className='text-black'>Hello</div>
+      <div className='pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden'>
+        <Header />
+      </div>
+
+      <ButtonGradient/>
     </>
   )
 }
