@@ -1,3 +1,13 @@
+import { 
+  homeSmile, 
+  file02, 
+  searchMd, 
+  plusSquare,
+  notification2,
+  notification3,
+  notification4
+}from "../assets";
+
 export const navigation = [
     {
       id: "0",
@@ -27,3 +37,6 @@ export const navigation = [
     },
    
   ];
+
+  export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
+  export const notificationImages = [notification4, notification3, notification2];

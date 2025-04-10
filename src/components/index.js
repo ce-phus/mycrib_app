@@ -1,9 +1,15 @@
 import Header from "./Header";
 import Button from "./Button";
 import Hero from "./Hero";
+import Section from "./Section";
+import Loading from "./Loading";
+import Notification from "./Notification";
 
 export {
     Header,
     Button,
-    Hero
+    Hero,
+    Section,
+    Loading,
+    Notification
 }

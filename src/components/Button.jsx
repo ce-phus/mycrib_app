@@ -1,9 +1,9 @@
 import ButtonSvg from "../assets/svg/ButtonSvg";
 
 const Button = ({ className, href, onClick, children, px, white }) => {
-  const classes = `font-code text-xs font-bold uppercase tracking-wider relative inline-flex items-center justify-center h-11 transition-colors hover:text-black/60 ${
+  const classes = `font-code text-xs font-bold uppercase tracking-wider relative inline-flex items-center justify-center h-11 transition-colors hover:text-white/60 ${
     px || "px-7"
-  } ${white ? "text-gray-800" : "text-black"} ${className || ""}`;
+  } ${white ? "text-white" : "text-black"} ${className || ""}`;
   const spanClasses = "relative z-10";
 
   const renderButton = () => (
