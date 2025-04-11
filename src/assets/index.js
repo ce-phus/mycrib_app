@@ -18,6 +18,9 @@ import notification4 from "./notification/image-4.png";
 import lulwanda from "./lulwandalogo.png"
 import lulwanda1 from "./lulwandablack.png"
 import homeUI from "./homeUIblack.png"
+import homeUIwhite from "./homeUIwhite.png"
+import exploreUI from "./exploreblack.png"
+import commentUI from "./commentwhite.png"
 
 import benefitCard1 from "./benefits/card-1.svg";
 import benefitCard2 from "./benefits/card-2.svg";
@@ -63,4 +66,7 @@ export {
     benefitIcon3,
     benefitIcon4,
     benefitImage2,
+    homeUIwhite,
+    exploreUI,
+    commentUI
 }
