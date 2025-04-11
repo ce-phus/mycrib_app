@@ -1,5 +1,5 @@
 import React from 'react'
-import { lulwanda } from '../assets'
+import { lulwanda, lulwanda1 } from '../assets'
 
 const CompanyLogos = ({ className }) => {
   return (
@@ -12,7 +12,7 @@ const CompanyLogos = ({ className }) => {
         width={134} height={28}
         className=''/>
         <img
-        src={lulwanda}
+        src={lulwanda1}
         width={134} height={28}
         className=''/>
         <img
@@ -20,12 +20,11 @@ const CompanyLogos = ({ className }) => {
         width={134} height={28}
         className=''/>
         <img
-        src={lulwanda}
+        src={lulwanda1}
         width={134} height={28}
         className=''/>
             </li>
         </ul>
-        
     </div>
   )
 }

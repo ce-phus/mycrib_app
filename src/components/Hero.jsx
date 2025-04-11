@@ -42,7 +42,7 @@ const Hero = () => {
 
                 This platform creates a dynamic network, transcending traditional boundaries in one seamless space.
                 </p>
-                <Button href="https://myrib.app" white className={`mt-4`}>
+                <Button href="https://mycrib.app" white className={`mt-4`}>
                     Get Started
                 </Button>
             </div>
