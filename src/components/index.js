@@ -5,6 +5,7 @@ import Section from "./Section";
 import Loading from "./Loading";
 import Notification from "./Notification";
 import Works from "./Works";
+import Flow from "./Flow";
 
 export {
     Header,
@@ -13,5 +14,6 @@ export {
     Section,
     Loading,
     Notification,
-    Works
+    Works,
+    Flow
 }
