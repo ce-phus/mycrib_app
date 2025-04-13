@@ -22,6 +22,9 @@ import homeUIwhite from "./homeUIwhite.png"
 import exploreUI from "./exploreblack.png"
 import commentUI from "./commentwhite.png"
 import check from "./check.svg"
+import check2 from "./check-02.svg"
+import loading1 from "./loading-01.svg"
+import grid from "./grid.png"
 
 import benefitCard1 from "./benefits/card-1.svg";
 import benefitCard2 from "./benefits/card-2.svg";
@@ -45,6 +48,16 @@ import discord from "./flow/discord.png"
 import slack from "./flow/slack.png"
 import curve1 from "./flow/curve-1.svg"
 import curve2 from "./flow/curve-2.svg"
+
+import coins from "./roadmap/coins.png";
+import done from "./roadmap/done.svg";
+import hero from "./roadmap/hero.png";
+import roadmap1 from "./roadmap/image-1.png";
+import roadmap2 from "./roadmap/image-2.png";
+import roadmap3 from "./roadmap/image-3.png";
+import roadmap4 from "./roadmap/image-4.png";
+import undone from "./roadmap/undone.svg";
+import gradient from "./gradient.png"
 
 export {
     bg,
@@ -91,5 +104,17 @@ export {
     check,
     curve1,
     curve2,
-    discord
+    discord,
+    coins,
+    done,
+    hero,
+    roadmap1,
+    roadmap2,
+    roadmap3,
+    roadmap4,
+    undone,
+    check2,
+    loading1,
+    grid,
+    gradient
 }

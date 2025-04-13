@@ -74,7 +74,7 @@ const Flow = () => {
             </div>
           </div>
         </div>
-        <div className='mt-47 bg-[#0E0C15] xl:mx-10 lg:mx-7.5 mx-5'>
+        <div className='mt-47 bg-[#0E0C15] xl:mx-10 lg:mx-7.5 mx-5 pb-47'>
           <Future />
         </div>
     </Section>
