@@ -21,6 +21,7 @@ import homeUI from "./homeUIblack.png"
 import homeUIwhite from "./homeUIwhite.png"
 import exploreUI from "./exploreblack.png"
 import commentUI from "./commentwhite.png"
+import check from "./check.svg"
 
 import benefitCard1 from "./benefits/card-1.svg";
 import benefitCard2 from "./benefits/card-2.svg";
@@ -33,6 +34,17 @@ import benefitIcon2 from "./benefits/icon-2.svg";
 import benefitIcon3 from "./benefits/icon-3.svg";
 import benefitIcon4 from "./benefits/icon-4.svg";
 import benefitImage2 from "./benefits/image-2.png";
+
+import figma from "./flow/figma.png";
+import framer from "./flow/framer.png";
+import notion from "./flow/notion.png";
+import photoshop from "./flow/photoshop.png"
+import protopie from "./flow/protopie.png"
+import raindrop from "./flow/raindrop.png"
+import discord from "./flow/discord.png"
+import slack from "./flow/slack.png"
+import curve1 from "./flow/curve-1.svg"
+import curve2 from "./flow/curve-2.svg"
 
 export {
     bg,
@@ -68,5 +80,16 @@ export {
     benefitImage2,
     homeUIwhite,
     exploreUI,
-    commentUI
+    commentUI,
+    figma,
+    framer,
+    notion,
+    photoshop,
+    protopie,
+    raindrop,
+    slack,
+    check,
+    curve1,
+    curve2,
+    discord
 }
