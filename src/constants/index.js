@@ -110,7 +110,7 @@ export const navigation = [
   ];
 
   export const flowText =
-  "A user-firendly platform with a robust unified ecosystem for both desktop and mobile users, advanced filtering capabilities, fragmented communication between potential buyers with sellers, agents and top agents and more.";
+  "A user-friendly platform with a robust unified ecosystem for both desktop and mobile users, advanced filtering capabilities, fragmented communication between potential buyers with sellers, agents and top agents and more.";
 
   export const flowContent = [
     {
