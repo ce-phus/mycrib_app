@@ -7,6 +7,7 @@ import Notification from "./Notification";
 import Works from "./Works";
 import Flow from "./Flow";
 import Pricing from "./Pricing";
+import Footer from "./Footer";
 
 export {
     Header,
@@ -17,5 +18,6 @@ export {
     Notification,
     Works,
     Flow,
-    Pricing
+    Pricing,
+    Footer
 }
