@@ -6,12 +6,11 @@ import { AiFillInstagram } from 'react-icons/ai';
 import { BsTwitterX } from 'react-icons/bs';
 import { FaFacebookF } from 'react-icons/fa';
 
-// Store component references, not JSX
 const socials = [
   {
     id: '0',
     title: 'Instagram',
-    icon: AiFillInstagram, // Use the component reference
+    icon: AiFillInstagram,
     url: '#',
   },
   {
