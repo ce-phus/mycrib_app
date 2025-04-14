@@ -5,6 +5,7 @@ import { flowApps, flowContent, flowText } from '../constants'
 import Button from "./Button"
 import { LeftCurve, RightCurve } from './designs/Flow'
 import { Future } from './Future'
+import Pricing from './Pricing'
 
 const Flow = () => {
   return (
@@ -76,6 +77,7 @@ const Flow = () => {
         </div>
         <div className='mt-47 bg-[#0E0C15] xl:mx-10 lg:mx-7.5 mx-5 pb-47'>
           <Future />
+          <Pricing />
         </div>
     </Section>
   )

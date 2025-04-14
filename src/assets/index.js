@@ -59,6 +59,11 @@ import roadmap4 from "./roadmap/image-4.png";
 import undone from "./roadmap/undone.svg";
 import gradient from "./gradient.png"
 
+import lines from "./pricing/lines.svg";
+import stars from "./pricing/stars.svg";
+import smallSphere from "./4-small.png";
+import smallsphere1 from "./earth-sphere.png"
+
 export {
     bg,
     logo,
@@ -116,5 +121,9 @@ export {
     check2,
     loading1,
     grid,
-    gradient
+    gradient,
+    lines,
+    stars,
+    smallSphere,
+    smallsphere1
 }

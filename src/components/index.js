@@ -6,6 +6,7 @@ import Loading from "./Loading";
 import Notification from "./Notification";
 import Works from "./Works";
 import Flow from "./Flow";
+import Pricing from "./Pricing";
 
 export {
     Header,
@@ -15,5 +16,6 @@ export {
     Loading,
     Notification,
     Works,
-    Flow
+    Flow,
+    Pricing
 }
