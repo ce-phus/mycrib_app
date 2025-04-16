@@ -140,7 +140,7 @@ export const navigation = [
   export const roadmap = [
     {
       id: "0",
-      title: "Web App Platform",
+      title: "Web & Mobile App Platform",
       text: "A fully functional web app platform that connects property owners, agents, and buyers. The platform includes advanced filtering options of properties, a chat feature, and a comment section for users to interact with each other.",
       date: "April 2025",
       status: "done",
