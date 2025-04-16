@@ -32,16 +32,16 @@ const Header = () => {
         openNavigation ? 'bg-gray-400' : 'bg-white/90 backdrop-blur-sm'
       }`}
     >
-      <div className="flex items-center px-5 lg:px-7.5 xl:px-10 max-lg:py-4">
+      <div className="flex items-center px-5 lg:px-7.5 xl:px-10 max-lg:py-3">
         <a className="block w-[12rem] flex space-x-2 xl:mr-8" href="#hero">
-          <img src={logo} alt="logo" className="lg:w-[100px] lg:h-[80px] w-[50px]" />
+          <img src={logo} alt="logo" className="lg:w-[100px] lg:h-[70px] w-[50px]" />
           <img src={crib} alt="crib" className="w-full h-[50px] mt-4" />
         </a>
 
         <nav
           className={`${
             openNavigation ? 'flex' : 'hidden'
-          } fixed top-[5rem] left-0 right-0 bottom-0 bg-gray-300 lg:static lg:flex lg:mx-auto lg:bg-transparent`}
+          } fixed top-[5rem] left-0 right-0 bottom-0 bg-white lg:static lg:flex lg:mx-auto lg:bg-transparent`}
         >
           <div className="relative z-2 flex flex-col items-center justify-center m-auto lg:flex-row">
             {navigation.map((item) => (

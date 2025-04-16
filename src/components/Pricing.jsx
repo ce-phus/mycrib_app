@@ -1,8 +1,7 @@
 import React from 'react'
 import PricingList from './PricingList'
 import { LeftLine, RightLine } from './designs/Pricing'
-import { stars, smallSphere, smallsphere1 } from '../assets'
-import Section from "./Section"
+import { stars, smallsphere1 } from '../assets'
 
 const Pricing = () => {
   return (

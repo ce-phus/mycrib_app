@@ -1,6 +1,6 @@
 import React from 'react'
 import Section from './Section'
-import { logo, check } from '../assets'
+import { logo, logo3, check } from '../assets'
 import { flowApps, flowContent, flowText } from '../constants'
 import Button from "./Button"
 import { LeftCurve, RightCurve } from './designs/Flow'
@@ -40,9 +40,9 @@ const Flow = () => {
             <div className='relative left-1/2 flex w-[22rem] aspect-square border border-gray-400 rounded-full -translate-x-1/2 scale:75 md:scale-100'>
               <div className='flex w-60 aspect-square border m-auto border-gray-400 rounded-full'>
                 <div className='w-[6rem] aspect-square m-auto p-[0.2rem] bg-conic-gradient rounded-full'>
-                  <div className='flex items-center justify-center w-full h-full bg-[#757185] rounded-full'>
+                  <div className='flex items-center justify-center w-full h-full bg-black rounded-full'>
                     <img
-                    src={logo}
+                    src={logo3}
                     width={48}
                     height={48}
                     alt='logo'

@@ -1,5 +1,6 @@
 import bg from "./bg2.jpg";
 import logo from "./mycrib.png"
+import logo3 from "./mycrib3.png"
 import companylogo from "./lulwandaname.png"
 import logo2 from "./blackicon.png"
 import crib from "./crib1.png"
@@ -52,9 +53,9 @@ import curve2 from "./flow/curve-2.svg"
 import coins from "./roadmap/coins.png";
 import done from "./roadmap/done.svg";
 import hero from "./roadmap/hero.png";
-import roadmap1 from "./roadmap/image-1.png";
-import roadmap2 from "./roadmap/image-2.png";
-import roadmap3 from "./roadmap/image-3.png";
+import roadmap1 from "./retro6.png";
+import roadmap2 from "./retro5.png";
+import roadmap3 from "./retro2.png";
 import roadmap4 from "./roadmap/image-4.png";
 import undone from "./roadmap/undone.svg";
 import gradient from "./gradient.png"
@@ -64,9 +65,20 @@ import stars from "./pricing/stars.svg";
 import smallSphere from "./4-small.png";
 import smallsphere1 from "./earth-sphere.png"
 
+import ai from "./ai_white.png";
+import authentication1 from "./authentication1.png";
+import chat from "./chat.png";
+import comments from "./comments.png";
+import filter from "./Filter.png";
+import profile from "./profile.png";
+import property from "./Property.png";
+import realestate from "./realestate.png";
+import authentication from "./authentication.png";
+
 export {
     bg,
     logo,
+    logo3,
     companylogo,
     logo2,
     crib,
@@ -125,5 +137,14 @@ export {
     lines,
     stars,
     smallSphere,
-    smallsphere1
+    smallsphere1,
+    ai,
+    authentication1,
+    chat,
+    comments,
+    filter,
+    profile,
+    property,
+    authentication,
+    realestate,
 }
