@@ -52,11 +52,11 @@ export const Future = () => {
                                     </div>
                                 </div>
 
-                                <div className='mb-10 -my-10 -mx-15'>
+                                <div className='mb-10 -my-10 -mx-1 mt-1'>
                                     <img
-                                    className='w-full'
+                                    className='w-full '
                                     src={item.imageUrl}
-                                    width={628}
+                                    width={620}
                                     height={426}
                                     alt={item.title}
                                     />

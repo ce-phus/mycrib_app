@@ -53,7 +53,7 @@ import curve2 from "./flow/curve-2.svg"
 import coins from "./roadmap/coins.png";
 import done from "./roadmap/done.svg";
 import hero from "./roadmap/hero.png";
-import roadmap1 from "./retro6.png";
+import roadmap1 from "./retro11.png";
 import roadmap2 from "./retro5.png";
 import roadmap3 from "./retro2.png";
 import roadmap4 from "./roadmap/image-4.png";

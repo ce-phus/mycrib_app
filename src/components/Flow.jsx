@@ -37,7 +37,7 @@ const Flow = () => {
               {flowText}
             </p>
 
-            <div className='relative left-1/2 flex w-[22rem] aspect-square border border-gray-400 rounded-full -translate-x-1/2 scale:75 md:scale-100'>
+            <div className='relative left-1/2 flex w-[22rem] aspect-square border border-gray-400 rounded-full mt-10 lg:mt-1 -translate-x-1/2 scale:75 md:scale-100'>
               <div className='flex w-60 aspect-square border m-auto border-gray-400 rounded-full'>
                 <div className='w-[6rem] aspect-square m-auto p-[0.2rem] bg-conic-gradient rounded-full'>
                   <div className='flex items-center justify-center w-full h-full bg-black rounded-full'>
@@ -51,9 +51,9 @@ const Flow = () => {
                 </div>
               </div>
 
-              <ul>
+              <ul className=''>
                 {flowApps.map((app, index)=> (
-                  <li key={app.id} className={`absolute top-0 left-1/2 h-1/2 -ml-[1.6rem] origin-bottom rotate-${
+                  <li key={app.id} className={`absolute top-1 left-1/2 h-1/2 -ml-[1.6rem] origin-bottom rotate-${
                     index * 45
                   }`}>
                     <div
