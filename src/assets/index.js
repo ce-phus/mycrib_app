@@ -75,6 +75,11 @@ import property from "./Property.png";
 import realestate from "./realestate.png";
 import authentication from "./authentication.png";
 
+import mobile from "./11.png";
+import mobile2 from "./22.png";
+import mobile3 from "./33.png";
+import mobile4 from "./44.png";
+
 export {
     bg,
     logo,
@@ -147,4 +152,8 @@ export {
     property,
     authentication,
     realestate,
+    mobile,
+    mobile2,
+    mobile3,
+    mobile4,
 }
