@@ -56,7 +56,7 @@ import hero from "./roadmap/hero.png";
 import roadmap1 from "./retro11.png";
 import roadmap2 from "./retro5.png";
 import roadmap3 from "./retro2.png";
-import roadmap4 from "./roadmap/image-4.png";
+import roadmap4 from "./retro9.png";
 import undone from "./roadmap/undone.svg";
 import gradient from "./gradient.png"
 
