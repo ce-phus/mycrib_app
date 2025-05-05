@@ -178,7 +178,7 @@ export const navigation = [
       id: "0",
       title: "Seller Plan",
       description: "Property owners looking to list and sell real estate",
-      price: "2.99",
+      price: "7.99",
       features: [
         "List up to 5 properties for sale.",
         "Create up to 20 reels/clips to showcase properties.",
@@ -192,7 +192,7 @@ export const navigation = [
       id: "1",
       title: "Top Agent Plan",
       description: "High-performing agents seeking premium tools and exclusivity.",
-      price: "8.99",
+      price: "9.99",
       features: [
         "Unlimited property listings and posts.",
         "Unlimited reels/clips with advanced editing tools (e.g., templates, filters).",
@@ -207,7 +207,7 @@ export const navigation = [
       id: "2",
       title: "Agent Plan",
       description: "Licensed real estate agents building their network and business.",
-      price: "4.99",
+      price: "18.99",
       features: [
         "Unlimited property listings and posts.",
         "Access to Agent-only chat (connect with other Agents, Buyers, and Sellers)",
