@@ -217,7 +217,6 @@ export const navigation = [
         "Support the community",
       ],
     },
-    
   ];
   
   export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
