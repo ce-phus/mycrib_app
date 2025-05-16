@@ -192,7 +192,7 @@ export const navigation = [
       id: "1",
       title: "Top Agent Plan",
       description: "High-performing agents seeking premium tools and exclusivity.",
-      price: "9.99",
+      price: "18.99",
       features: [
         "Unlimited property listings and posts.",
         "Unlimited reels/clips with advanced editing tools (e.g., templates, filters).",
@@ -207,7 +207,7 @@ export const navigation = [
       id: "2",
       title: "Agent Plan",
       description: "Licensed real estate agents building their network and business.",
-      price: "18.99",
+      price: "9.99",
       features: [
         "Unlimited property listings and posts.",
         "Access to Agent-only chat (connect with other Agents, Buyers, and Sellers)",
