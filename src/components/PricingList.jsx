@@ -38,7 +38,7 @@ const PricingList = () => {
 
           <Button
             className="w-full mb-6 text-white hover:text-white/50"
-            href={item.price ? '/pricing' : 'https://mycrib.app/my-profile'}
+            href={item.price ? 'https://mycrib.app/my-profile' : 'https://mycrib.app/my-profile'}
             white={!!item.price}
           >
             {item.price ? 'Get started' : 'Contact us'}
